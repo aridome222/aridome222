@@ -41,3 +41,6 @@ Here are some ideas to get you started:
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=aridome222&theme=gruvbox)
+
+<!-- 草を食べるへびちゃん -->
+![](https://raw.githubusercontent.com/aridome222/aridome222/output/github-contribution-grid-snake.svg)
