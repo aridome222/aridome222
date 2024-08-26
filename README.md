@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋　 I'm Naoki Aridome!
+I recently purchased a mac book pro m3 which costs about 400,000! 
+This is a self investment! I want to be an engineer who has mastered efficiency!
 
 <!--
 **aridome222/aridome222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,4 +45,5 @@ Here are some ideas to get you started:
 ![trophy](https://github-profile-trophy.vercel.app/?username=aridome222&theme=gruvbox)
 
 <!-- 草を食べるへびちゃん -->
+## 草を食べるヘビちゃん
 ![](https://raw.githubusercontent.com/aridome222/aridome222/output/github-contribution-grid-snake.svg)
