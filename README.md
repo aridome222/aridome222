@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- gitのprofileやqiitaの情報 -->
 <p align="left">
   <a href="https://github.com/aridome222">
     <img height="20" src="https://komarev.com/ghpvc/?username=aridome222" />
@@ -29,3 +30,14 @@ Here are some ideas to get you started:
     <img height="20" src="https://qiita-badge.apiapi.app/s/aridome222/contributions.svg" />
   </a>
 </p>
+
+<!-- 自分のステータスやグラフ、トロフィー -->
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aridome222&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aridome222&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aridome222&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aridome222&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aridome222&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=aridome222&theme=gruvbox)
