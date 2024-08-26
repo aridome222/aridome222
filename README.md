@@ -1,6 +1,7 @@
-## Hi there 👋　 I'm Naoki Aridome!
-I recently purchased a mac book pro m3 which costs about 400,000! 
-This is a self investment! I want to be an engineer who has mastered efficiency!
+## Hi there！ I'm Naoki Aridome 🐣
+I recently purchased a mac book pro m3 which costs about 400,000!  
+This is a self investment!  
+I want to be an engineer who has mastered efficiency!
 
 <!--
 **aridome222/aridome222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
