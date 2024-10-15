@@ -1,5 +1,5 @@
 ## Hi there☺️ I'm Naoki Aridome 🐣
-座右の銘：「継続は力なり。」
+座右の銘：「Done is better than perfect.（完璧を目指すよりもまず終わらせることが重要）」
 
 <!--
 **aridome222/aridome222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
