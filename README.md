@@ -1,7 +1,9 @@
 ## Hi there☺️ I'm Naoki Aridome 🐣
 座右の銘：
+
 ・「Done is better than perfect.（完璧を目指すよりもまず終わらせることが重要）」
-・　後悔先に立たず（無駄な時間を費やさず、生産性のある時間を過ごす）
+
+・後悔先に立たず（無駄な時間を費やさず、生産性のある時間を過ごす）
 
 <!--
 **aridome222/aridome222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
